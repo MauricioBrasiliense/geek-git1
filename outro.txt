@@ -1,0 +1,1 @@
+Para o mesmo conectar com o GitHub, após criar o arquivo e dar um git add e git commit, dar um "git push -u origin master", para que assim os arquivos vá para o GitHub
