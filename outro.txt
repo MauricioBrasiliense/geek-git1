@@ -1,1 +1,10 @@
 Para o mesmo conectar com o GitHub, após criar o arquivo e dar um git add e git commit, dar um "git push -u origin master", para que assim os arquivos vá para o GitHub
+
+git push -u origin master > Para mandar os carquivos criados diretamente para o github
+
+
+git pull origin master > Para atualizar um clone, assim puxando diretamente do diretório principal
+
+git checkout -- . > Caso modifique algum arquivo e queira voltar todos como estava usar o comando
+
+git checkout -- 'nome do arquivo' > Caso modifique algum arquivo e queira voltar todos como estava usar o comando para mudar somente oq está errado
