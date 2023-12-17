@@ -10,5 +10,3 @@ git checkout -- . > Caso modifique algum arquivo e queira voltar todos como esta
 git checkout -- 'nome do arquivo' > Caso modifique algum arquivo e queira voltar todos como estava usar o comando para mudar somente oq está errado
 
 git checkout HEAD -- 'nome do arquivo' OU '.' > Caso modifique e já tenha adicionado algum arquivo, asism consegue voltar para o status de modified
-
-git revert > serve para reverter um commit e altera-lo
