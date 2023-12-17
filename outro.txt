@@ -12,3 +12,5 @@ git checkout -- 'nome do arquivo' > Caso modifique algum arquivo e queira voltar
 git checkout HEAD -- 'nome do arquivo' OU '.' > Caso modifique e já tenha adicionado algum arquivo, asism consegue voltar para o status de modified
 
 git revert > serve para que possa reverter o arquivo, assim podendo modifica-lo novamente
+
+git reset HEAD~1 > Serve para desfazer o ultimo commit realizado, porém o número "1" pode ser alterado para desfazer mais que um commit
